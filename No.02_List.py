@@ -11,7 +11,7 @@ fruits = ["apple", "banana", "orange"]
 print(fruits)        # ['apple', 'banana', 'orange']
 print(type(fruits))  # <class 'list'>
 
-#付き・変更可能というのが特徴
+#変更可能というのが特徴
 #要素の追加・削除・更新が自由にできる
 
 
